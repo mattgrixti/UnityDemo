@@ -1,0 +1,399 @@
+fileFormatVersion: 2
+guid: 71d0ea9003062f14ab95d9ef3c00d7c6
+timeCreated: 1446754888
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: floor1
+    21300002: thebush
+    21300004: cloud_1
+    21300006: cloud 2
+    21300008: bg_mnt_2
+    21300010: bg_mnt_3
+    21300012: bg_mnt_5
+    21300014: bg_7
+    21300016: bg_mnt_1
+    21300018: cloud_3
+    21300020: cloud_4
+    21300022: stripe_floor_1
+    21300024: stripe_floor_2
+    21300026: platform
+    21300028: bg_14
+    21300030: note
+    21300032: ramp
+    21300034: bg_mnt_4
+    21300036: bg_18
+    21300038: floor2
+    21300040: hill
+    21300042: bg_21
+    21300044: grass1
+    21300046: grass2
+    21300048: grass3
+    21300050: ramp_fall
+    21300052: palmtree
+    21300054: standable
+    21300056: bg_mnt_6
+    21300058: ramp_up
+    21300060: grass4
+    21300062: grass5
+    21300064: grass6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 20
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: floor1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 421
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: thebush
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 421
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloud_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 419
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloud 2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 420
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bg_mnt_2
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 387
+        width: 63
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bg_mnt_3
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 308
+        width: 143
+        height: 127
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bg_mnt_5
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 296
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bg_mnt_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 302
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloud_3
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 326
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloud_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 331
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stripe_floor_1
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 306
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stripe_floor_2
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 307
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: platform
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 304
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bg_14
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 249
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: note
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 280
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ramp
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 232
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bg_mnt_4
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 227
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bg_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 138
+        width: 79
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 8
+        width: 152
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hill
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 41
+        width: 112
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grass1
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 30
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grass2
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 30
+        width: 73
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grass3
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 30
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ramp_fall
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 198
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: palmtree
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 12
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: standable
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 29
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bg_mnt_6
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 227
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ramp_up
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 232
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grass4
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 10
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grass5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 10
+        width: 73
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grass6
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 10
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
